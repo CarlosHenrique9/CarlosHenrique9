@@ -1,16 +1,16 @@
-## Hi there 👋
+?h1 alinhado?"center"?Hi ?, I'm Carlos Henrique?/h1?
+?h3 alinhado?"center"?A Full Stack developer from Brasil/h3?
 
-<!--
-**CarlosHenrique9/CarlosHenrique9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+?h3 alinhado?"esquerdo"?Conectar-se com mim: ?/h3?
+?p align?"left"
+?/p
 
-Here are some ideas to get you started:
+?h3 alinhado?"esquerdo"-Languages e Ferramentas: ?/h3?
+?p align?"left" ?a href?"https://getbootstrap.com" target?"_blank" rel?"noreferrer" img src-https://raw.githubusercontent.com/devicons/master/master/bootstrap/bootstrap-plain-wordmark.svg" alt-bootstrap" (largura)""40" ?/a "a href"https://expressjs.com" target-__blank" rel-"noreferrer" img src-"https://raw.githubusercontent.com/devicons/master/master/icons/express-original-wordmark.svg" alt-"express"" width"40" de altura"""40""" ?/a ?a href?"https://www.figma.com/" target?"__blank" rel?.("noreferrer"? img src-'https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt-figma" width?"40" height""""/? ?/a ?a href?"https://heroku.com" target?"_blank" rel?"noreferrer" img src-"https://ww.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt-'heroku" width -"40" ?/a ?a href?"https://www.ww3.org/html/" target?"_blank" rel?"noreferrer"? img src-"https://raw.githubusercontent.com/devicons/devicon/master/icons/html5-original-wordmark.svg" alt-html5" largura -40" ?/a "a href"https://developer.mozilla.org/en-US/docs/Web/JavaScript" target-_blank" rel-. img src-https://raw.githubusercontent.com/devicons/master/icons/javascript/javascript-original.svg" alt-javascript"" de largura -"40" height""""" ?/a ?a href?"https://www.mongodb.com/" target?" ?_blank" rel?"noreferrer" img src-"https://raw.githubusercontent.com/devicons/master/icons/mongodb/mongodb-original-wordmark.svg" alt-mongodb""mongodb"" de largura""40"" ?/a ?a href?"https://www.mysql.com/" target-(m)"_blank" rel?"noreferrer" ?img src-"https://raw.githubusercontent.com/devicons/master/icsql/mysql-original-wordmark.svg" alt-mysql" width?"40" height"""" ?/a ?a href?"https://nodejs.org" target?"_blank" rel?"noreferrer" img src-"https://raw.githubusercontent.com/devicons/master/master/nodejs/nodejs-original-wordmark.svg" alt-nodejs" width"40" height""40""""40" ?/a ?a href?"https://pandas.pydata.org/" target-"_blank" rel?"noreferrer" ?img src-"https://raw.githubusercontent.com/devicons/devicondas/2ae2a900d2f2f2f166e9e4d48052658580630/icons/pandas/pandas-original.svg" alt-pandas" largura ?/a ?a href?https://www.postgresql.org target?"_blank" rel?"noreferrer" img src-"https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt-postgresql" width ?/a ?a href?"https://rubyonrails.org" target?"_blank" rel?"noreferrer" img src-"https://raw.githubusercontent.com/devicons/master/icons/rails/rails-original-wordmark.svg" alt-rails" largura"40" height""40"" ?/a ?a href?"https://reactjs.org/" target?"_blank" rel?"noreferrer" img src-"https://raw.githubusercontent.com/devicons/master/icons/react/react-original-wordmark.svg" alt--react"react" width?"40" height?"40" ?/a ?a href?https://www.ruby-lang.org/en/" target-"_blank" rel?"noreferrer" ?img src-'htps://raw.githubusercontent.com/devicons/deviconconum/master/iruby/ruby-original.svg" alt-'ruby" width""40" height"""40"/? ?/a ?a href?"https://seaborn.pydata.org/" target-"_blank" rel?"noreferrer"? ?img src-"https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt-?seaborn" width?"40" height?"40"/?? ?/a ?a href?"https://vuejs.org/" target?"_blank" rel?"noreferrer" img src-https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs-original-wordmark.svg" alt-vuejs" largura -40" height""40"" ?/a ?/p
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"p?img alinhado"-left" src?"https://github-readme-stats.vercel.app.app/api/top-langs?username?carloshenrique9&show_icons?true&locale?en&layout?com?
+
+?p?&nbsp;?img alinhado?"center" src-https://github-readme-stats.vercel.app/api?username?carloshenrique9&show_icons?true&locale?en" alt?loshenrique9" //p?
+
+"p?img alinhado"center" src"https://github-readme-streak-stats.herokuapp.com/?user-carloshenrique9&" alt?carloshenrique9" //p
+
