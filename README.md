@@ -6,7 +6,6 @@
 <h3 align="center" style="color:#00FF00;">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=carloshenrique9&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00" alt="GitHub Stats" style="width:47%;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloshenrique9&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideLabels=00FF00" alt="GitHub Streak Stats" style="width:50%;"/>
 </p>
 
 ---
